@@ -1,4 +1,4 @@
- // Write your code here
+function firstNonRepeatedChar(str){
 
 if(!str)
 {
@@ -26,3 +26,4 @@ for (let item in freqObj)
 		}
 	}
 return null
+}
